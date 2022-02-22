@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "workbench.colorTheme": "Noctis Minimus",
+    "terminal.integrated.fontSize": 13,
+    "editor.fontSize": 16,
+    "window.zoomLevel": -0.5
+}
